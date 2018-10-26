@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter15/cloud-oauth2-jwt.iml" filepath="$PROJECT_DIR$/chapter15/cloud-oauth2-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/chapter14/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14/service-auth/service-auth.iml" filepath="$PROJECT_DIR$/chapter14/service-auth/service-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/chapter14/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14/spring-cloud-auth.iml" filepath="$PROJECT_DIR$/chapter14/spring-cloud-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud-book.iml" filepath="$PROJECT_DIR$/.idea/springcloud-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/uaa-service/uaa-service.iml" filepath="$PROJECT_DIR$/chapter15/uaa-service/uaa-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15/user-service/user-service.iml" filepath="$PROJECT_DIR$/chapter15/user-service/user-service.iml" />
+    </modules>
+  </component>
+</project>
